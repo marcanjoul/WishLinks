@@ -1,9 +1,9 @@
-# WishLinks ✨  
+# WishLinks 
 A collaborative wishlist app that auto-fills item details from product links
 
 ---
 
-## 📱 Overview
+## Overview
 
 **WishLinks** is a work-in-progress SwiftUI app that makes creating and sharing wishlists effortless. Whether you're planning a group event, organizing a potluck, or just tracking your own shopping list, WishLinks streamlines the process. Paste a product URL and the app instantly extracts the item's title, price, and image — no manual entry needed.
 
@@ -11,7 +11,17 @@ WishLists can be private and personalized, or collaborative and shareable — pe
 
 ---
 
-## ✨ Features
+## Screenshots / Mockups
+
+>  _More to come as development continues — these are early designs!_
+
+| Home Screen | Add Item To Wishlist Flow |
+|-------------|----------------|
+| <img width="368" height="699" alt="Screenshot 2025-09-09 at 10 31 39 AM" src="https://github.com/user-attachments/assets/431671e1-9499-43b8-a534-157108ae6657" />| <img width="314" height="699" alt="IMG_1670" src="https://github.com/user-attachments/assets/f3e1e8dd-1983-4515-aae2-33cfc6320b95" /> |
+
+---
+
+## Features
 
 - Paste product links to auto-fill title, price, and image
 - Create multiple personal or shared wishlists
@@ -21,48 +31,24 @@ WishLists can be private and personalized, or collaborative and shareable — pe
 
 ---
 
-## 📸 Screenshots
 
-> 🔧 _More to come as development continues — these are early designs!_
 
-| Home Screen | Add Item Flow |
-|-------------|----------------|
-| <img width="368" height="699" alt="Screenshot 2025-09-09 at 10 31 39 AM" src="https://github.com/user-attachments/assets/431671e1-9499-43b8-a534-157108ae6657" />
- | ![Add Item](Screenshots/add-item.png) |
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 - SwiftUI
-- Combine
 - OpenGraph scraping for link metadata (custom)
 - Firebase Auth + Firestore (planned)
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
-🧪 **Currently in development.**  
+ **Currently in development.**  
 Core functionality is being built incrementally and will be updated regularly.
 
 ---
 
-## 🔗 View Live on GitHub
-
-If you're a recruiter or collaborator, feel free to check out the project and early visuals here:  
-👉 [https://github.com/YOUR_USERNAME/WishLinks](https://github.com/YOUR_USERNAME/WishLinks)
-
----
-
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - Inspired by collaborative tools like Pinterest, Google Docs, and Apple Reminders
 - Uses [AsyncImage](https://developer.apple.com/documentation/swiftui/asyncimage) for remote image loading
-- Haptic feedback and animation ideas from [DesignCode](https://designcode.io/)
-
----
-
-## 📄 License
-
-This project is open-sourced under the MIT License.
