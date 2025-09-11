@@ -19,6 +19,7 @@ WishLists can be private and personalized, or collaborative and shareable — pe
 |-------------|----------------|
 | <img width="368" height="699" alt="Screenshot 2025-09-09 at 10 31 39 AM" src="https://github.com/user-attachments/assets/431671e1-9499-43b8-a534-157108ae6657" />| <img width="314" height="699" alt="IMG_1670" src="https://github.com/user-attachments/assets/f3e1e8dd-1983-4515-aae2-33cfc6320b95" /> |
 
+Note that the avatr pixel pictures in the circles are not part of the app and are just for display purposes! Avatars source:https://www.avatarsinpixels.com
 ---
 
 ## Features
