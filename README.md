@@ -5,7 +5,7 @@ A collaborative wishlist app that auto-fills item details from product links
 
 ## Overview
 
-**WishLinks** is a work-in-progress SwiftUI app that makes creating and sharing wishlists effortless. Whether you're planning a group event, organizing a potluck, or just tracking your own shopping list, WishLinks streamlines the process. Paste a product URL and the app instantly extracts the item's title, price, and image — no manual entry needed.
+**WishLinks** is a work-in-progress SwiftUI app with Firebase backend, using MVVM architecture to separate UI, logic, and data. that makes creating and sharing wishlists effortless. Whether you're planning a group event, organizing a potluck, or just tracking your own shopping list, WishLinks streamlines the process. Paste a product URL and the app instantly extracts the item's title, price, and image — no manual entry needed.
 
 WishLists can be private and personalized, or collaborative and shareable — perfect for birthdays, team events, holiday gift exchanges, and more.
 
